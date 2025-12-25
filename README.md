@@ -7,8 +7,8 @@
 ### 🚀 Aspiring Frontend Developer | CSE Student | Tech Learner
 
 - 🌱 Learning React, Tailwind CSS & UI/UX  
-- 🎯 Goal: Become a Frontend Developer in 6 months  
-- 💼 Working on projects to build strong portfolio  
+- 🎯 Goal: Become a Frontend Developer.
+- 💼 Working on client projects to build strong portfolio 
 - 🧠 Exploring Modern Web Dev & AI  
 - 💬 Ask me about anything — I love helping!
 
